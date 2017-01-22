@@ -3,8 +3,8 @@
 #File: first.py
 #Purpose: Request input of user's first name, favorite color, and lucky number from standard input
 #         Then print the data given to standard output
-#Revision: 1.0 / 21 JAN 2016
-#Created: 21 JAN 2016
+#Revision: 1.0 / 22 JAN 2017
+#Created: 22 JAN 2017
 #Author: Rick Miller <rick@rickthegeek.com>
 
 
